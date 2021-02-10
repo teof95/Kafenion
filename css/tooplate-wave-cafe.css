@@ -359,3 +359,22 @@ h2 { margin-top: 0; }
     .tm-drinks-nav > ul > li { margin-bottom: 10px; }
     .tm-drinks-nav > ul > li > a { display: block; }
 }
+
+.img-acu
+{
+  float: left;
+  width: 250px;
+  height: 140px;
+  background:transparent url("../video/logonoa.jpg") center top no-repeat;
+  background-size: 100%;
+  opacity: 80%;
+  border-radius: 10px;
+
+}
+
+.img-acu:hover
+{
+  background-image: url("../video/logoa.gif");
+  width: 250px;
+
+}
